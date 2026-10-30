@@ -1,1 +1,2 @@
 # RAGNEWProject - Retrieval-Augmented Generation (RAG) & LLM Tutorials
+RAGNEWProject is a comprehensive repository designed for building, exploring, and implementing Retrieval-Augmented Generation (RAG) pipelines, interactive chatbot demonstrations, and Large Language Model (LLM) applications. It features hands-on Jupyter notebooks, Streamlit applications, and custom scripts covering everything from core paper implementations to practical Python tutorials
